@@ -9,7 +9,7 @@ width of the rectangle are 4cm and
 6cm respectively."""
 
 
-class shape:
+class Shape:
     def calc_sqrarea(self,length):
         area=length*length
         print("Area of square:", area)
@@ -26,7 +26,8 @@ class shape:
         perim = 2 * (length + width)
         print("Perimeter of rectangle:", perim)
 
-myshape=shape()
+
+myshape=Shape()
 myshape.calc_sqrarea(8)
 myshape.calc_sqrperi(8)
 myshape.calc_recarea(4,6)

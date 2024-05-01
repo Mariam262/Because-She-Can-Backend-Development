@@ -6,3 +6,15 @@ welcome message to members of PyClub
 KNUST.
 """
 print("welcome message to members of PyClub KNUST")
+
+
+
+
+
+
+
+
+
+
+
+
